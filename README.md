@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mishra2019
-- 👀 I’m interested in both frontend and backend development
+- 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning angular and django
-- 💞️ I’m looking to collaborate on both frontend ans backend features.
+- 💞️ I’m looking to collaborate on  frontend ans backend features.
 - 📫 you can reach me through my email "mroshanmishra0072@gmail.com".
 
 <!---
